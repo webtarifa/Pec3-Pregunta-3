@@ -1,0 +1,21 @@
+.cajaUno{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: blueviolet;
+    float: left;
+}
+.cajaDos{
+    width: 200px;
+    height: 100px;
+    margin-left: 20px;
+    background-color: chartreuse;
+    float: left;
+    
+}
+.cajaTres{
+    width: 320px;
+    height: 50px;
+    background-color: darkcyan;
+    clear: both;
+}
