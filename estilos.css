@@ -2,20 +2,20 @@
     width: 100px;
     height: 100px;
     margin-bottom: 20px;
-    background-color: blueviolet;
+    background-color: #8e517d;
     float: left;
 }
 .cajaDos{
     width: 200px;
     height: 100px;
     margin-left: 20px;
-    background-color: chartreuse;
+    background-color:#317f62;
     float: left;
     
 }
 .cajaTres{
     width: 320px;
     height: 50px;
-    background-color: darkcyan;
+    background-color: #45687f;
     clear: both;
 }
